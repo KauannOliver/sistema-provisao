@@ -1,0 +1,425 @@
+{
+    "1107920": {
+        "CLIENTE": "AMBEV BOM JESUS DA LAPA APOIO",
+        "UND NEGOCIO": 19201039,
+        "ICMS": 0.12,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107919": {
+        "CLIENTE": "AMBEV BOM JESUS DA LAPA ROTA",
+        "UND NEGOCIO": 19201038,
+        "ICMS": 0.0,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107925": {
+        "CLIENTE": "AMBEV CAMPINA GRANDE APOIO",
+        "UND NEGOCIO": 19201050,
+        "ICMS": 0.18,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107924": {
+        "CLIENTE": "AMBEV CAMPINA GRANDE ROTA",
+        "UND NEGOCIO": 19201049,
+        "ICMS": 0.18,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107917": {
+        "CLIENTE": "AMBEV FEIRA DE SANTANA APOIO",
+        "UND NEGOCIO": 19201034,
+        "ICMS": 0.0,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107907": {
+        "CLIENTE": "AMBEV FEIRA DE SANTANA ROTA",
+        "UND NEGOCIO": 19201019,
+        "ICMS": 0.0,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107913": {
+        "CLIENTE": "AMBEV GUANAMBI APOIO",
+        "UND NEGOCIO": 19201027,
+        "ICMS": 0.0,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107912": {
+        "CLIENTE": "AMBEV GUANAMBI ROTA",
+        "UND NEGOCIO": 19201026,
+        "ICMS": 0.0,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107906": {
+        "CLIENTE": "AMBEV ILHÉUS APOIO",
+        "UND NEGOCIO": 19201006,
+        "ICMS": 0.0,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107904": {
+        "CLIENTE": "AMBEV ILHÉUS ROTA",
+        "UND NEGOCIO": 19201004,
+        "ICMS": 0.0,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107916": {
+        "CLIENTE": "AMBEV IPATINGA APOIO",
+        "UND NEGOCIO": 19201033,
+        "ICMS": 0.0,
+        "ISS": 0.03,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107915": {
+        "CLIENTE": "AMBEV IPATINGA ROTA",
+        "UND NEGOCIO": 19201032,
+        "ICMS": 0.0,
+        "ISS": 0.03,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107922": {
+        "CLIENTE": "AMBEV JOÃO PESSOA APOIO",
+        "UND NEGOCIO": 19201047,
+        "ICMS": 0.18,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107926": {
+        "CLIENTE": "AMBEV JOÃO PESSOA APOIO CDR",
+        "UND NEGOCIO": 19201051,
+        "ICMS": 0.18,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107921": {
+        "CLIENTE": "AMBEV JOÃO PESSOA ROTA",
+        "UND NEGOCIO": 19201046,
+        "ICMS": 0.18,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107918": {
+        "CLIENTE": "AMBEV SANTA LUZIA APOIO",
+        "UND NEGOCIO": 19201035,
+        "ICMS": 0.0,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107914": {
+        "CLIENTE": "AMBEV SANTA LUZIA ROTA",
+        "UND NEGOCIO": 19201031,
+        "ICMS": 0.0,
+        "ISS": 0.03,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107911": {
+        "CLIENTE": "AMBEV VITÓRIA DA CONQUISTA APOIO",
+        "UND NEGOCIO": 19201025,
+        "ICMS": 0.0,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107910": {
+        "CLIENTE": "AMBEV VITÓRIA DA CONQUISTA ROTA",
+        "UND NEGOCIO": 19201024,
+        "ICMS": 0.0,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107401": {
+        "CLIENTE": "ATVOS COSTA RICA",
+        "UND NEGOCIO": 19203007,
+        "ICMS": 0.0,
+        "ISS": 0.04,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107114": {
+        "CLIENTE": "BRACELL",
+        "UND NEGOCIO": 19202025,
+        "ICMS": 0.12,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1106903": {
+        "CLIENTE": "CENIBRA COCAIS",
+        "UND NEGOCIO": 19202004,
+        "ICMS": 0.0,
+        "ISS": 0.03,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1106901": {
+        "CLIENTE": "CENIBRA NOVA ERA",
+        "UND NEGOCIO": 19202002,
+        "ICMS": 0.0,
+        "ISS": 0.03,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1106902": {
+        "CLIENTE": "CENIBRA SANTA BÁRBARA",
+        "UND NEGOCIO": 19202003,
+        "ICMS": 0.0,
+        "ISS": 0.03,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107110": {
+        "CLIENTE": "CMPC FLORESTAL",
+        "UND NEGOCIO": 19202020,
+        "ICMS": 0.0,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1100703": {
+        "CLIENTE": "FIAT SPOT",
+        "UND NEGOCIO": 19101075,
+        "ICMS": 0.12,
+        "ISS": 0.0,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1110501": {
+        "CLIENTE": "JATAÍ",
+        "UND NEGOCIO": 19203012,
+        "ICMS": 0.0,
+        "ISS": 0.03,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1100702": {
+        "CLIENTE": "JEEP PERNAMBUCO",
+        "UND NEGOCIO": 19101021,
+        "ICMS": 0.12,
+        "ISS": 0.0,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107118": {
+        "CLIENTE": "KLABIN",
+        "UND NEGOCIO": 19202028,
+        "ICMS": 0.0,
+        "ISS": 0.0,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1110302": {
+        "CLIENTE": "LOCACAO ANDRADE",
+        "UND NEGOCIO": 19204003,
+        "ICMS": 0.0,
+        "ISS": 0.0,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1110306": {
+        "CLIENTE": "LOCACAO PRANDO",
+        "UND NEGOCIO": 19204008,
+        "ICMS": 0.0,
+        "ISS": 0.0,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1110401": {
+        "CLIENTE": "LOCAÇÕES DIVERSAS",
+        "UND NEGOCIO": 19204002,
+        "ICMS": 0.0,
+        "ISS": 0.0,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1100106": {
+        "CLIENTE": "MARELLI LAVRAS",
+        "UND NEGOCIO": 19101006,
+        "ICMS": 0.0,
+        "ISS": 0.025,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1100910": {
+        "CLIENTE": "MERCEDES BENZ",
+        "UND NEGOCIO": 19101079,
+        "ICMS": 0.12,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1102601": {
+        "CLIENTE": "PLASCAR BETIM",
+        "UND NEGOCIO": 19101039,
+        "ICMS": 0.12,
+        "ISS": 0.035,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1110503": {
+        "CLIENTE": "RAIZEN RESIDUOS",
+        "UND NEGOCIO": 19203021,
+        "ICMS": 0.0,
+        "ISS": 0.03,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107106": {
+        "CLIENTE": "SUZANO ARACRUZ",
+        "UND NEGOCIO": 19202011,
+        "ICMS": 0.12,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107104": {
+        "CLIENTE": "SUZANO JACAREÍ",
+        "UND NEGOCIO": 19202009,
+        "ICMS": 0.0,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107116": {
+        "CLIENTE": "SUZANO LIMEIRA",
+        "UND NEGOCIO": 19202026,
+        "ICMS": 0.12,
+        "ISS": 0.0,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107117": {
+        "CLIENTE": "SUZANO RIBAS DO RIO PARDO",
+        "UND NEGOCIO": 19202027,
+        "ICMS": 0.0,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107108": {
+        "CLIENTE": "SUZANO SETE LAGOAS",
+        "UND NEGOCIO": 19202018,
+        "ICMS": 0.0,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107109": {
+        "CLIENTE": "SUZANO SP",
+        "UND NEGOCIO": 19202019,
+        "ICMS": 0.0,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1107107": {
+        "CLIENTE": "SUZANO TRÊS LAGOAS",
+        "UND NEGOCIO": 19202015,
+        "ICMS": 0.0,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1112003": {
+        "CLIENTE": "USINA TEREOS TANABI                                                             ",
+        "UND NEGOCIO": 19203022,
+        "ICMS": 0.12,
+        "ISS": 0.05,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1110502": {
+        "CLIENTE": "VINHAÇA",
+        "UND NEGOCIO": 19203019,
+        "ICMS": 0.0,
+        "ISS": 0.03,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "1112401": {
+        "CLIENTE": "ZILOR",
+        "UND NEGOCIO": 19203020,
+        "ICMS": 0.12,
+        "ISS": 0.03,
+        "PIS": 0.0165,
+        "COFINS": 0.076,
+        "CPRB": 0.015
+    },
+    "171171": {
+        "CLIENTE": "UM CLIENTE AÍ",
+        "UND NEGOCIO": 157157,
+        "ICMS": 0.1,
+        "ISS": 0.102,
+        "PIS": 0.103,
+        "COFINS": 0.152,
+        "CPRB": 0.012
+    }
+}
