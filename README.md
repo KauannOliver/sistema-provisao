@@ -1,32 +1,34 @@
-# Sistema de Lançamento de Provisões e Estornos
+# Provisions and Write-Offs Management System
 
-Este projeto foi desenvolvido para gerenciar o processo de lançamento, acompanhamento e estorno de provisões, facilitando a análise de quais provisões já foram estornadas, parcial ou totalmente, além de possibilitar o cadastro de novos clientes e dados financeiros. Toda a base de dados é armazenada e manipulada diretamente em planilhas Excel, proporcionando praticidade para importação e exportação de dados.
+This project was developed to manage the entry, tracking, and reversal of provisions, making it easy to analyze which provisions have been partially or fully written off, while also enabling the registration of new clients and financial data. The entire database is stored and managed directly within Excel spreadsheets, providing convenience for data import and export.
 
-FUNCIONALIDADES PRINCIPAIS
+**KEY FEATURES**
 
-1. CRUD Completo de Provisões, Estornos e Clientes: O sistema oferece funcionalidades de Create, Read, Update e Delete (CRUD) para gerenciar provisões, estornos e clientes. Isso permite um controle completo sobre os dados financeiros lançados no sistema, incluindo a possibilidade de edição e exclusão de informações.
+1. **Full CRUD for Provisions, Write-Offs, and Clients**  
+   The system provides Create, Read, Update, and Delete (CRUD) functions to manage provisions, write-offs, and clients, enabling full control over financial data in the system, including the ability to edit and delete entries.
 
-2. Importação de Dados a Partir de Excel: Não é necessário cadastrar provisões manualmente uma por uma. O sistema permite a importação de dados diretamente de um modelo Excel próprio, facilitando o processo de subida de informações em massa para a base de dados.
+2. **Excel Data Import**  
+   There's no need to enter provisions one by one manually. The system allows data import directly from a custom Excel template, making it easy to upload information in bulk.
 
-3. Acompanhamento de Provisões e Estornos: O sistema realiza o acompanhamento detalhado de provisões, permitindo verificar quais já foram totalmente estornadas, parcialmente estornadas ou ainda estão pendentes de estorno. A visualização é clara e permite fácil controle sobre o que já foi estornado e o que ainda está pendente.
+3. **Provision and Write-Off Tracking**  
+   The system offers detailed tracking of provisions, allowing users to check which have been fully written off, partially written off, or are still pending. The clear view enables easy control over completed and pending write-offs.
 
-4. Exportação de Planilhas de Provisões Pendentes: É possível exportar uma planilha que contém apenas as provisões pendentes, juntamente com informações detalhadas sobre quanto já foi estornado e quanto ainda falta estornar. Isso ajuda no controle das obrigações financeiras e facilita a gestão dos valores que precisam ser ajustados.
+4. **Export of Pending Provisions**  
+   Users can export a spreadsheet containing only pending provisions, along with details on amounts written off and those still outstanding. This helps in managing financial obligations and tracking amounts that need to be adjusted.
 
-5. Manipulação e Formatação de Dados Financeiros: O sistema utiliza formatação contábil para todos os valores financeiros, como receita bruta, impostos (ICMS, ISS, PIS, COFINS, CPRB), e valores estornados, garantindo que todos os dados estejam corretos e bem organizados para análise.
+5. **Financial Data Handling and Formatting**  
+   The system applies accounting formatting to all financial data, including gross revenue, taxes (ICMS, ISS, PIS, COFINS, CPRB), and written-off values, ensuring accuracy and clear organization for analysis.
 
-6. Relatórios e Controle: O sistema permite a geração de relatórios detalhados para acompanhamento das provisões e estornos, oferecendo uma visão clara e organizada dos valores e status de cada lançamento.
+6. **Reporting and Control**  
+   Detailed reports can be generated to monitor provisions and write-offs, providing a clear and organized view of values and the status of each entry.
 
-TECNOLOGIAS UTILIZADAS
+**TECHNOLOGIES USED**
 
-1. Flet: Framework utilizado para o desenvolvimento do front-end, proporcionando uma interface moderna e fácil de usar.
+1. **Flet**: Framework used for front-end development, providing a modern, user-friendly interface.
+2. **Python**: Used for the system’s back-end, implementing business logic and Excel integration.
+3. **Pandas & Openpyxl**: Essential libraries for data manipulation and interaction with Excel spreadsheets.
+4. **Excel**: Used as the primary database to store provisions, write-offs, and clients, ensuring easy data integration and portability.
 
-2. Python: Utilizado para o back-end do sistema, implementando a lógica de negócio e integração com Excel.
+**CONCLUSION**
 
-3. Pandas & Openpyxl: Bibliotecas essenciais para manipulação de dados e interação com planilhas Excel.
-
-4. Excel: Utilizado como banco de dados principal para armazenar provisões, estornos e clientes, garantindo uma fácil integração e portabilidade dos dados.
-
-
-CONCLUSÃO
-
-Este projeto foi desenvolvido para proporcionar um sistema completo de gestão de provisões e estornos, com funcionalidades que otimizam o controle financeiro de empresas. Com a possibilidade de importar e exportar dados em Excel, o sistema oferece flexibilidade para quem já utiliza planilhas como base de dados. Além disso, o CRUD completo, o acompanhamento detalhado de estornos e a exportação de provisões pendentes tornam este sistema uma ferramenta poderosa para a gestão financeira.
+This project delivers a comprehensive management system for provisions and write-offs, with features that optimize financial control for companies. The ability to import and export data in Excel offers flexibility for those already using spreadsheets as a database. In addition, the complete CRUD functionality, detailed tracking of write-offs, and pending provisions export make this system a powerful tool for financial management.
