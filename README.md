@@ -17,7 +17,7 @@ Python, Flet, Pandas, OpenPyXL, JSON, and Excel workbooks.
 
 ## Run locally
 
-Install dependencies from `requirements.txt`, configure a sanitized local workbook, then run `python main.py`. Do not use the committed workbook with real financial operations.
+Run `pip install -r requirements.txt`, initialize the empty inputs with `python scripts/init_demo.py`, then run `python main.py`. The public template contains column headers only.
 
 ## Empty demo inputs
 

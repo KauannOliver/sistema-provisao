@@ -6,3 +6,16 @@ __pycache__/
 # Local operational inputs and generated outputs
 banco/ProvisaoBD.xlsx
 banco/impostos.json
+
+# Keep account settings and operational exports local
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+*.xls
+*.xlsx
+*.pdf
+rota_*.html
+!examples/ProvisaoBD.template.xlsx
