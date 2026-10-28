@@ -224,7 +224,7 @@ def main(page: ft.Page):
                 botao_menu_lateral("Pendências", realizar_download_pendencias),  ### botão de Pendências estilizado como os demais ###
                 ft.Container(
                     content=ft.Image(
-                        src="imagens/logo.png",  ### imagem exibida no fundo do menu lateral ###
+                        src="imagens/logo.svg",  ### imagem exibida no fundo do menu lateral ###
                         width=150,
                         height=150,
                         fit=ft.ImageFit.CONTAIN,
